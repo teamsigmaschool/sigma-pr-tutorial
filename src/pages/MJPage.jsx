@@ -1,7 +1,7 @@
 export default function MJPage() {
   return (
     <>
-      <h1>Hello from MJ!</h1>
+      <h2>Hello from MJ!</h2>
     </>
   )
 }
