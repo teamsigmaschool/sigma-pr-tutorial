@@ -3,7 +3,7 @@ export default function ProfilePageMJ() {
   return (
     <>
       <p>Hello from YH!</p>
-      <p>My age is 23</p>
+      <p>My ageeee is 20</p>
     </>
   )
 }
