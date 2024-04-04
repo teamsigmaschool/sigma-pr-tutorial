@@ -1,6 +1,9 @@
 
 export default function ProfilePageSelly() {
   return (
-    <div>Hello from Selly!</div>
+    <>
+    <p>Hello from Selly!</p>
+    <p>Always 18!</p>
+    </>
   )
 }
