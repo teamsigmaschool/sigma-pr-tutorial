@@ -2,7 +2,7 @@ export default function ProfilePageReagan() {
   return (
     <>
       <p>Hello from Reagan!!</p>
-      <p>I'm definitely as not 28</p>
+      <p>I'm ** years old, but forever young</p>
     </>
   )
 }
