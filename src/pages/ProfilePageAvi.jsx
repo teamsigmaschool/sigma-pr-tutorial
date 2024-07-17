@@ -2,7 +2,8 @@
 export default function ProfilePageMJ() {
     return (
         <>
-            <p>Hello from MJ!</p>
+            <p>Hello from Avi!</p>
+            <p>My age is 28!</p>
         </>
     )
 }
