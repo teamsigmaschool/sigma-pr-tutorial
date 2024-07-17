@@ -1,8 +1,8 @@
 //change to your own file name
-export default function ProfilePageTest() {
+export default function ProfilePageIain() {
     return (
         <>
-            <p>Hello from Test!</p>
+            <p>Hello from Iain!</p>
         </>
     )
 }
