@@ -3,7 +3,7 @@ const ProfilePageRyan = () => {
   return (
     <>
     <p>Hello From Ryan</p>
-    <p>My ageeeeeeeeeeeeeeeeeeeeeeee is 29!</p>
+    <p>My age is 29!</p>
     </>
   )
 }
