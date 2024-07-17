@@ -3,7 +3,7 @@ export default function ProfilePageEllen() {
     return (
         <>
             <p>Hello from Ellen!</p>
-            <p>My ageeee is 30</p>
+            <p>My age is 30</p>
 
 
         </>
